@@ -1,2 +1,3 @@
-# auth0_react_spa
-React SPA with Auth0 and react-router-dom example project
+Cuentas de Acceso:
+admin1@admin.com   Utn1234!  (Rol Admin , Cliente)
+admin2@admin.com   Utn1234!  (Rol Cliente)
